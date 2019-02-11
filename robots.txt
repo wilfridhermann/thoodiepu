@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quoexov.posts.house/sitemap.xml
